@@ -30,10 +30,10 @@ Essential addons that enhance gameplay and improve quality of life.
 - [ImpulseBooster](https://github.com/Warlockbugs/impulse-booster) _(Manual installation required)_
 - [pfQuest](https://github.com/shagu/pfQuest.git)
 - [pfQuest (turtle)](https://github.com/shagu/pfQuest-turtle.git)
-- [ShaguTweaks](https://github.com/wizardinaflask/ShaguTweaks.git) _(This is my own fork, check if synchronization is needed)_
+- [ShaguTweaks](https://github.com/waverion/ShaguTweaks.git) _(This is my own fork, check if synchronization is needed)_
 - [TurtleHardcoreChatTamer](https://github.com/refaim/TurtleHardcoreChatTamer.git)
 - [TurtleTweaks](https://github.com/mitjafelicijan/TurtleTweaks.git)
-- [UnitXP_SP3_Addon](https://github.com/wizardinaflask/UnitXP_SP3_Addon.git) _(This is my own fork, check if synchronization is needed)_
+- [UnitXP_SP3_Addon](https://github.com/waverion/UnitXP_SP3_Addon.git) _(This is my own fork, check if synchronization is needed)_
 
 ### Optional Addons
 
