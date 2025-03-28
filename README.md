@@ -35,6 +35,11 @@ Essential addons that enhance gameplay and improve quality of life.
 - [TurtleTweaks](https://github.com/mitjafelicijan/TurtleTweaks.git)
 - [UnitXP_SP3_Addon](https://github.com/wizardinaflask/UnitXP_SP3_Addon.git) _(This is my own fork, check if synchronization is needed)_
 
+### Optional Addons
+
+- [pfQuest-icons](https://github.com/shagu/pfQuest-icons.git)
+- [YaHT-TurtleWoWSteady](https://github.com/aspanj/YaHT-TurtleWoWSteady) _(Manual installation required)_
+
 _Source: [Addons | Turtle WoW Wiki | Fandom](https://turtle-wow.fandom.com/wiki/Addons)_
 
 ---
