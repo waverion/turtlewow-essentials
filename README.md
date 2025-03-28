@@ -1,6 +1,6 @@
 # Essential Turtle WoW Fixes & Addons
 
-A collection of essential fixes and add-ons to improve the Turtle WoW experience, made for my personal use.
+A collection of essential fixes and addons to improve the Turtle WoW experience, made for my personal use.
 
 ## Fixes
 
