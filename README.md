@@ -27,7 +27,6 @@ Essential addons that enhance gameplay and improve quality of life.
 > Addons without manual installation can be installed via GitAddonsManager or the Turtle WoW launcher by copy-pasting the links.
 
 - [AutoDB2](https://github.com/refaim/AutoDB2.git)
-- [ColorPickerPlus](https://github.com/mrrosh/ColorPickerPlus.git)
 - [ImpulseBooster](https://github.com/Warlockbugs/impulse-booster) _(Manual installation required)_
 - [pfQuest](https://github.com/shagu/pfQuest.git)
 - [pfQuest (turtle)](https://github.com/shagu/pfQuest-turtle.git)
@@ -37,6 +36,7 @@ Essential addons that enhance gameplay and improve quality of life.
 
 ### Optional Addons
 
+- [ColorPickerPlus](https://github.com/mrrosh/ColorPickerPlus.git)
 - [pfQuest-icons](https://github.com/shagu/pfQuest-icons.git)
 - [YaHT-TurtleWoWSteady](https://github.com/aspanj/YaHT-TurtleWoWSteady) _(Manual installation required)_
 
