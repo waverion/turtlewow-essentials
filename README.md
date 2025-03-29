@@ -32,7 +32,6 @@ Essential addons that enhance gameplay and improve quality of life.
 - [pfQuest](https://github.com/shagu/pfQuest.git)
 - [pfQuest (turtle)](https://github.com/shagu/pfQuest-turtle.git)
 - [ShaguTweaks](https://github.com/waverion/ShaguTweaks.git) _(This is my own fork, check if synchronization is needed)_
-- [TurtleHardcoreChatTamer](https://github.com/refaim/TurtleHardcoreChatTamer.git)
 - [TurtleTweaks](https://github.com/mitjafelicijan/TurtleTweaks.git)
 - [UnitXP_SP3_Addon](https://github.com/allfoxwy/UnitXP_SP3_Addon.git)
 
