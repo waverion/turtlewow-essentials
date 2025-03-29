@@ -33,6 +33,7 @@ Essential addons that enhance gameplay and improve quality of life.
 - [ShaguTweaks](https://github.com/waverion/ShaguTweaks.git) _(This is my own fork, check if synchronization is needed)_
 - [TurtleTweaks](https://github.com/mitjafelicijan/TurtleTweaks.git)
 - [UnitXP_SP3_Addon](https://github.com/allfoxwy/UnitXP_SP3_Addon.git)
+- [WIM](https://github.com/refaim/WIM.git)
 
 ### Optional Addons
 
