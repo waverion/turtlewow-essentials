@@ -13,6 +13,7 @@ Essential fixes that enhance functionality and optimize performance for a smooth
 - [nampower](https://github.com/namreeb/nampower)
 - [SuperWoW](https://github.com/balakethelock/SuperWoW)
 - [Turtle AutoLogin](https://github.com/MarcelineVQ/turtle-autologin)
+- [TurtleUIFixes](https://github.com/Otari98/TurtleUIFixes)
 - [UnitXP Service Pack 3](https://github.com/allfoxwy/UnitXP_SP3)
 - [VanillaFixes](https://github.com/hannesmann/vanillafixes)
 
@@ -44,4 +45,4 @@ _Source: [Addons | Turtle WoW Wiki | Fandom](https://turtle-wow.fandom.com/wiki/
 
 ---
 
-_Last Updated: 2025-03-28_
+_Last Updated: 2025-03-29_
